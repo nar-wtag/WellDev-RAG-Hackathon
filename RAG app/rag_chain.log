@@ -1,0 +1,110 @@
+2024-11-09 16:13:37,516 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:13:37,526 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:13:42,812 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:13:42,815 - INFO - Processing 1 questions...
+2024-11-09 16:14:28,273 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:14:28,282 - ERROR - Error processing questions: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 16:14:28,283 - ERROR - Application error: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 16:18:40,333 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:18:40,333 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:18:44,583 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:18:44,593 - INFO - Processing 5 questions...
+2024-11-09 16:18:44,603 - ERROR - Error processing questions: string indices must be integers
+2024-11-09 16:18:44,603 - ERROR - Application error: string indices must be integers
+2024-11-09 16:19:33,737 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:19:33,737 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:19:36,347 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:19:36,350 - INFO - Processing 5 questions...
+2024-11-09 16:20:12,250 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:20:51,722 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:21:28,512 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:22:06,007 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:23:08,463 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:23:08,473 - ERROR - Error processing questions: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 16:23:08,473 - ERROR - Application error: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 16:32:27,947 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:32:27,947 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:32:32,132 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:32:32,144 - INFO - Processing 5 questions...
+2024-11-09 16:33:07,322 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:33:55,153 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:34:28,828 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:35:07,284 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:54:13,609 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:54:13,609 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:54:18,737 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:54:18,744 - INFO - Processing 1 questions...
+2024-11-09 16:55:19,851 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:55:19,885 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 17:23:33,110 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:23:33,123 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:23:38,671 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:23:38,688 - INFO - Processing 1 questions...
+2024-11-09 17:24:04,384 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:24:04,405 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 17:24:40,507 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:24:40,507 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:24:43,604 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:24:43,615 - INFO - Processing 5 questions...
+2024-11-09 17:26:43,483 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:26:43,483 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:26:48,620 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:26:48,620 - INFO - Processing 5 questions...
+2024-11-09 17:27:13,728 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:27:44,048 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:28:13,244 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:28:45,083 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:29:15,221 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:29:15,228 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 17:41:11,600 - ERROR - Error processing ABC Company Accessibility Policy.pdf: 
+2024-11-09 17:48:56,282 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:48:56,282 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:48:59,970 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:48:59,985 - INFO - Processing 5 questions...
+2024-11-09 17:49:43,910 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:50:19,733 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:50:58,296 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:51:31,677 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:52:06,794 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:52:06,830 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 17:55:58,593 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:55:58,595 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:56:01,439 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:56:01,464 - INFO - Processing 1 questions...
+2024-11-09 17:56:40,087 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 17:56:40,090 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 17:59:19,346 - INFO - Use pytorch device_name: cpu
+2024-11-09 17:59:19,346 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 17:59:22,343 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 17:59:22,343 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:01:51,052 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:01:51,053 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:01:53,691 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:01:53,691 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:04:20,529 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:04:20,530 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:04:23,129 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:04:23,129 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:06:55,145 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:06:55,146 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:06:57,753 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:06:57,753 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:11:23,121 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:11:23,121 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:11:25,779 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:11:25,779 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:11:52,143 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:11:52,143 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:11:54,777 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:11:54,777 - ERROR - Application error: 'RAGChain' object has no attribute 'process_questions'
+2024-11-09 18:12:26,213 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:12:26,214 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:12:28,894 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:12:28,894 - INFO - Processing 1 questions...
+2024-11-09 18:13:09,985 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 18:13:09,987 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 18:14:11,319 - INFO - Use pytorch device_name: cpu
+2024-11-09 18:14:11,320 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 18:14:14,058 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 18:14:14,073 - INFO - Processing 5 questions...
+2024-11-09 18:14:42,458 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"

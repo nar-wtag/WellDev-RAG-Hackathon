@@ -1,0 +1,148 @@
+2024-11-09 14:09:22,312 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:09:22,313 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:09:24,851 - INFO - Processing 10 PDF files...
+2024-11-09 14:09:25,031 - INFO - FAISS index created successfully
+2024-11-09 14:09:25,033 - INFO - Processing 5 questions...
+2024-11-09 14:09:25,066 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:09:25,067 - ERROR - Error generating email response: model "llama2" not found, try pulling it first
+2024-11-09 14:09:25,093 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:09:25,094 - ERROR - Error generating email response: model "llama2" not found, try pulling it first
+2024-11-09 14:09:25,120 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:09:25,121 - ERROR - Error generating email response: model "llama2" not found, try pulling it first
+2024-11-09 14:09:25,143 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:09:25,143 - ERROR - Error generating email response: model "llama2" not found, try pulling it first
+2024-11-09 14:09:25,167 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:09:25,168 - ERROR - Error generating email response: model "llama2" not found, try pulling it first
+2024-11-09 14:09:25,171 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 14:10:21,827 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:10:21,827 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:10:24,304 - INFO - Processing 10 PDF files...
+2024-11-09 14:10:24,468 - INFO - FAISS index created successfully
+2024-11-09 14:10:24,469 - INFO - Processing 5 questions...
+2024-11-09 14:12:51,880 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:15:07,954 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:17:24,123 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:20:11,747 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:22:31,561 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:22:31,565 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 14:33:03,599 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:33:03,601 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:33:07,735 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 14:33:07,741 - INFO - Processing 5 questions...
+2024-11-09 14:33:07,763 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:33:07,763 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:33:07,785 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:33:07,786 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:33:07,810 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:33:07,811 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:33:07,838 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:33:07,838 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:33:07,866 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:33:07,868 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:33:07,870 - ERROR - Error processing questions: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 14:33:07,870 - ERROR - Application error: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 14:34:25,528 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:34:25,533 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:34:28,158 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 14:34:28,165 - INFO - Processing 5 questions...
+2024-11-09 14:34:28,185 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:34:28,186 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:34:28,208 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:34:28,209 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:34:28,231 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:34:28,231 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:34:28,253 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:34:28,254 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:34:28,276 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-09 14:34:28,277 - ERROR - Error generating response: model "llama2" not found, try pulling it first
+2024-11-09 14:34:28,277 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 14:34:41,595 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:34:41,603 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:34:44,261 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 14:34:44,268 - INFO - Processing 5 questions...
+2024-11-09 14:35:19,611 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:35:57,354 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:36:39,227 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:37:34,479 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:39:09,262 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:39:09,266 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 14:44:26,359 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:44:26,359 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:44:30,097 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 14:44:30,097 - INFO - Processing 5 questions...
+2024-11-09 14:45:14,159 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:45:56,125 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:46:38,312 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:47:24,507 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:48:54,171 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 14:48:54,172 - ERROR - Error processing questions: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 14:48:54,174 - ERROR - Application error: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 14:58:57,745 - INFO - Use pytorch device_name: cpu
+2024-11-09 14:58:57,746 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 14:59:02,208 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 14:59:02,215 - INFO - Processing 5 questions...
+2024-11-09 14:59:45,813 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:00:35,695 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:01:21,886 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:02:09,223 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:03:21,651 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:03:21,655 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 15:06:28,336 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:06:28,336 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:06:32,441 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:06:32,457 - INFO - Processing 5 questions...
+2024-11-09 15:07:08,050 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:07:56,613 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:08:51,426 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:09:37,409 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:10:45,480 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:10:45,488 - ERROR - Error processing questions: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 15:10:45,489 - ERROR - Application error: [Errno 13] Permission denied: 'Questions_with_responses.csv'
+2024-11-09 15:21:54,232 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:21:54,233 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:21:57,918 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:21:57,923 - INFO - Processing 5 questions...
+2024-11-09 15:22:39,453 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:23:36,522 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:24:40,637 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:25:48,447 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:27:52,198 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:27:52,205 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 15:36:12,832 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:36:12,832 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:36:16,164 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:36:16,186 - INFO - Processing 1 questions...
+2024-11-09 15:36:54,928 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:36:54,933 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 15:44:49,172 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:44:49,173 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:44:53,716 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:44:53,717 - INFO - Processing 1 questions...
+2024-11-09 15:44:53,739 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 15:45:41,237 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:45:41,237 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:45:43,883 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:45:43,883 - INFO - Processing 5 questions...
+2024-11-09 15:46:21,274 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:47:03,843 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:47:48,336 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:48:57,629 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:48:57,633 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 15:49:13,997 - INFO - Use pytorch device_name: cpu
+2024-11-09 15:49:13,997 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 15:49:16,701 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 15:49:16,704 - INFO - Processing 5 questions...
+2024-11-09 15:49:48,005 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:50:24,671 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:51:05,411 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:51:43,218 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:53:06,530 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 15:53:06,536 - INFO - Responses saved to Questions_with_responses.csv
+2024-11-09 16:04:25,891 - INFO - Use pytorch device_name: cpu
+2024-11-09 16:04:25,891 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-11-09 16:04:30,366 - INFO - Processed 20 chunks from 10 PDFs
+2024-11-09 16:04:30,367 - INFO - Processing 5 questions...
+2024-11-09 16:05:09,351 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:05:54,085 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:06:37,863 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-09 16:07:31,097 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"

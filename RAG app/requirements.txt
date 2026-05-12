@@ -1,0 +1,25 @@
+# Core dependencies
+torch==2.0.1             # Make sure this version is compatible with your GPU/CPU if using CUDA
+transformers==4.33.0     # For handling LLaMA and other Hugging Face models
+sentence-transformers==2.2.2   # For document embeddings using Sentence-BERT
+
+# Vector database and similarity search
+faiss-cpu==1.7.4         # CPU version of FAISS; use faiss-gpu if running on a compatible GPU
+
+# Web framework for API
+flask==2.3.2             # Web framework for setting up API endpoints
+
+# Optional: for managing environment variables
+python-dotenv==1.0.0     # Load .env files for sensitive configurations
+
+# Optional: Quantization support for large models
+bitsandbytes==0.39.0     # For 8-bit/4-bit quantization (if memory optimization is needed)
+
+# Additional utilities
+numpy==1.24.2            # Array manipulation and numerical computations
+gunicorn==21.2.0         # For deploying the Flask app in production (Linux-based only)
+pandas==1.5.3            # For data handling (if needed for loading or processing CSV data)
+tqdm==4.64.0             # For progress bars (helpful for large data processing)
+PyMuPDF
+pandas
+fitz
